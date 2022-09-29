@@ -1,0 +1,47 @@
+.container {
+    text-align: center;
+    margin-top: 23px;
+}
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-style: italic;
+}
+
+table {
+    margin: auto;
+}
+
+input {
+    background-color: rgb(49, 64, 222);
+    border-radius: 15px;
+    font-size: 34px;
+    text-align: right;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    height: 70px;
+}
+
+button {
+
+    border-radius: 10px;
+    font-size: 23px;
+    background: rgb(255, 255, 255);
+    width: 70px;
+    height: 50px;
+    margin: 7px ;
+    transition:  1000ms ;
+}
+
+.calculator {
+    background-color: rgb(59, 82, 98);
+    padding: 10px;
+    border-radius: 15px;
+    display: inline-block;
+    box-shadow: 0 5px 25px 0 rgba(0,0,0,1);
+
+}
